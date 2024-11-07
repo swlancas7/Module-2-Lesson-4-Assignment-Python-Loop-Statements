@@ -7,7 +7,6 @@ git remote add origin https://github.com/swlancas7/Module-2-Lesson-4-Assignment-
 git push -u origin main
 
 ## Module 2 Lesson 4: Range Riddle
-
 mood = ['Loopy', 'Sad', 'Melancholy', 'Happy', 'Frustrated', 'Angry']
 day = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 
